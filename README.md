@@ -12,6 +12,6 @@ CODE DESCRIPTION: Count consecutive ONE's in binary representation of entered de
 Details:
  * INPUT: enter decimal value to be converted to binary (e.g. 234544239)
  * OUTPUT:
- > binary representation: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1]
- > The max. count of consecutive one's in binary representation: 6
+ ... * binary representation: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1]
+ ... * The max. count of consecutive one's in binary representation: 6
  
